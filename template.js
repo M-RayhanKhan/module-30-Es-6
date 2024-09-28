@@ -1,0 +1,16 @@
+const first = "Jaan"
+const last = "Pakhi"
+const greet = 'Hogamara sara'
+const fullName = first + " " + last + " " + greet;
+console.log(fullName);
+
+const a = 10;
+const b = 20;
+
+const result = 'The sum of ' + a + ' and ' + b + ' is '  + (a + b);
+// console.log(result);
+const math = `The sum of ${a} and ${b} is ${a + b}`;
+console.log(math);
+
+const fight = 'moto \n' + 'jhon \n' + 'Tomra mara mari korbanaki' ;
+console.log(fight);
